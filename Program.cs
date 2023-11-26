@@ -1,14 +1,28 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
 using MyApp;
 
-Test test1=new Test();
-test1.runTest();
 
-Lists towns=new Lists();
-towns.Towns();
+namespace MyApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
 
-ArrayLists employee1=new ArrayLists();
+            Test test1=new Test();
+            test1.runTest();
 
-employee1.listArrays();
+            Lists towns=new Lists();
+            towns.Towns();
+
+            ArrayLists employee1=new ArrayLists();
+
+            employee1.listArrays();
+
+
+        }
+    }
+}
+
 
 
