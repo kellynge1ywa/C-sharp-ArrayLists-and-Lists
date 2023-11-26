@@ -1,0 +1,15 @@
+D:\learning\C#\vs code\MyApp\obj\Debug\net8.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\C#\vs code\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfoInputs.cache
+D:\learning\C#\vs code\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfo.cs
+D:\learning\C#\vs code\MyApp\obj\Debug\net8.0\MyApp.csproj.CoreCompileInputs.cache
+D:\learning\C#\vs code\MyApp\obj\Debug\net8.0\MyApp.sourcelink.json
+D:\learning\C#\vs code\MyApp\bin\Debug\net8.0\MyApp.exe
+D:\learning\C#\vs code\MyApp\bin\Debug\net8.0\MyApp.deps.json
+D:\learning\C#\vs code\MyApp\bin\Debug\net8.0\MyApp.runtimeconfig.json
+D:\learning\C#\vs code\MyApp\bin\Debug\net8.0\MyApp.dll
+D:\learning\C#\vs code\MyApp\bin\Debug\net8.0\MyApp.pdb
+D:\learning\C#\vs code\MyApp\obj\Debug\net8.0\MyApp.dll
+D:\learning\C#\vs code\MyApp\obj\Debug\net8.0\refint\MyApp.dll
+D:\learning\C#\vs code\MyApp\obj\Debug\net8.0\MyApp.pdb
+D:\learning\C#\vs code\MyApp\obj\Debug\net8.0\MyApp.genruntimeconfig.cache
+D:\learning\C#\vs code\MyApp\obj\Debug\net8.0\ref\MyApp.dll
